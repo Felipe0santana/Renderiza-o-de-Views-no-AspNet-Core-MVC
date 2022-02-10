@@ -6,4 +6,4 @@
 # Melhorando a experiência do usuario com HTML,
 # Organizando a aplicação,
 # Introduzindo o AspNet Core MVC,
-$ Renderização de Views no AspNet Core MVC.
+# Renderização de Views no AspNet Core MVC.
